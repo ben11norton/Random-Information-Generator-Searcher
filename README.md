@@ -1,0 +1,1 @@
+The idea behind this project is to implement a backend data generating script and display this generated data on the front end webpage. This method should be useful in upcoming projects where data is searched and accessed by the user through using a simple search box functionality on the website. 
